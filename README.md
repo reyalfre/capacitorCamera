@@ -1,4 +1,4 @@
-Screenshout of the main layout
+Screenshot of the main layout
 ![mainApplication](https://github.com/reyalfre/capacitorCamera/assets/79906574/c01fe806-0da8-430f-8c74-2aa9394daa49)
 
 Screenshot of the camera
