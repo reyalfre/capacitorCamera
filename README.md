@@ -1,3 +1,5 @@
+This is a custom Capacitor and Ionic plugin for Android to take a photo and save it to the device gallery.
+
 Screenshot of the main layout
 ![mainApplication](https://github.com/reyalfre/capacitorCamera/assets/79906574/c01fe806-0da8-430f-8c74-2aa9394daa49)
 
